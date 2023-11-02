@@ -59,4 +59,4 @@ The technical documentation:
 
 And follow us on Twitter:
 
-[https://twitter/crynuxai](https://twitter/crynuxai)
+[https://twitter.com/crynuxai](https://twitter.com/crynuxai)
