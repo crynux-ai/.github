@@ -33,9 +33,11 @@ If you have an application, want to use the network to generate images, [follow 
 
 Hydrogen Network is the very first testnet of the Crynux Network. Hydrogen Network implements a decentralized AI task execution engine that supports running the Stable Diffusion image generation task.
 
-Everyone has an Nvidia GPU could have already joined the network by starting a Docker container.
+From the application's perspective, it is an inference API service on the cloud that could be used just like AWS. The application submits the task to the API, and gets the images in return.
 
-And the applications could now send Stable Diffusion image generation tasks to the network using API, and get the images instantly.
+The computation power comes from a decentralized network of the home computers that are coordinated by a consensus protocol running on the Blockchain. The individuals who have the spared computation power could connect their devices to the network, exchanging the computation power for tokens by starting a node, to run the inference tasks for the applications.
+
+Although called a testnet, the featured consensus protocol is robust enough to allow everyone to join at this moment.
 
 To know more about the Hydrogen Network, start from the [Hydrogen Network introduction](https://docs.crynux.ai/hydrogen-network).
 
