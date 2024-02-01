@@ -16,8 +16,14 @@ By utilizing the Blockchain, Zero-knowledge Proofs and Privacy Preserving Comput
 
 [https://ig.crynux.ai](https://ig.crynux.ai)
 
-The Image Generator is a showcase application on the Hydrogen Network that provides a web interface (just like [`stable-diffusion-webui`](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) for the users to generate images in the browser. 
-The application can be used on any devices that do not have a capable GPU integrated. The Blockchain and token stuff are handled at the application backend. To the end users, this is just a traditional easy-to-use web application, nothing special.
+The Image Generator is a showcase application that provides a web interface (just like [`stable-diffusion-webui`](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) for the users to generate images in the browser. 
+The application can be used on any devices that do not have a capable GPU integrated. The Blockchain and token stuff are handled at the application backend using the [Crynux Bridge](https://github.com/crynux-ai/crynux-bridge). To the end users, this is just a traditional easy-to-use web application, nothing special.
+
+## The GPT Chatbot
+
+[https://chat.crynux.ai](https://chat.crynux.ai)
+
+The GPT Chatbot is a showcase application that provides a simple chat UI in the browser. The web application connects to the [Crynux Bridge](https://github.com/crynux-ai/crynux-bridge) at the backend to interact with the Crynux Network.
 
 ## Getting Started
 
@@ -29,17 +35,24 @@ If you have the spared local GPU, want to contribute the computing resources to 
 
 If you have an application, want to use the network to generate images, [follow this guide](https://docs.crynux.ai/application-development/application-workflow) to connect your application to the network.
 
-## Hydrogen Network
+## Helium Network
 
-Hydrogen Network is the very first testnet of the Crynux Network. Hydrogen Network implements a decentralized AI task execution engine that supports running the Stable Diffusion image generation task.
+Helium Network is the latest testnet of the Crynux Network. Helium Network implements a decentralized AI task execution engine that supports running the Stable Diffusion image generation tasks and the GPT text generation tasks.
+Everyone has an Nvidia GPU, or Mac with the Apple Silicon chips (M1, M2 and M3 series), could have already joined the network by starting a Docker container.
 
-From the application's perspective, it is an inference API service on the cloud that could be used just like AWS. The application submits the task to the API, and gets the images in return.
+From the application's perspective, it is an inference API service on the cloud that could be used just like AWS. The application submits the Stable Diffusion/GPT tasks to the API, and gets the images/texts in return.
 
 The computation power comes from a decentralized network of the home computers that are coordinated by a consensus protocol running on the Blockchain. The individuals who have the spared computation power could connect their devices to the network, exchanging the computation power for tokens by starting a node, to run the inference tasks for the applications.
 
 Although called a testnet, the featured consensus protocol is robust enough to allow everyone to join at this moment.
 
-To know more about the Hydrogen Network, start from the [Hydrogen Network introduction](https://docs.crynux.ai/hydrogen-network).
+To know more about the Helium Network, start from the [Helium Network introduction](https://docs.crynux.ai/releases/helium-network).
+
+## Research
+
+Checkout our latest research papers about Crynux Network on the ResearchGate:
+
+[Crynux Hydrogen Network (H-Net): Decentralized AI Serving Network on Blockchain](http://dx.doi.org/10.13140/RG.2.2.32697.54884)
 
 ## Links
 
