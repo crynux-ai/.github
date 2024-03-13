@@ -27,13 +27,21 @@ The GPT Chatbot is a showcase application that provides a simple chat UI in the 
 
 ## Getting Started
 
-### Node Provider
+### Start a Node
 
-If you have the spared local GPU, want to contribute the computing resources to the network in exchange for tokens, [follow this guide](https://docs.crynux.ai/node-hosting/join-the-network) to start a node.
+To start a node on your local computer to earn tokens:
+
+Windows and Linux:
+
+[Start a Node on Windows and Linux](https://docs.crynux.ai/node-hosting/start-a-node-win-linux)
+
+Mac:
+
+[Start a Node on Mac](https://docs.crynux.ai/node-hosting/start-a-node-mac)
 
 ### Application Developer
 
-If you have an application, want to use the network to generate images, [follow this guide](https://docs.crynux.ai/application-development/application-workflow) to connect your application to the network.
+If you are an application developer who want to utilize the AI abilities provided by the Crynux Network, [follow this guide](https://docs.crynux.ai/application-development/application-workflow) to connect your application to the network.
 
 ## Helium Network
 
