@@ -1,6 +1,6 @@
 # Crynux Network
 
-Crynux is an open and democratic AI Infrastructure.
+Crynux is the REAL decentralized AI infrastructure.
 
 As the foundation layer, Crynux Network is composed of the decentralized nodes who contribute their spare AI computing power to the network in exchange for token rewards. The computing power is then grouped and dispatched to run the AI tasks from the developers and applications.
 
