@@ -31,13 +31,17 @@ The GPT Chatbot is a showcase application that provides a simple chat UI in the 
 
 To start a node on your local computer to earn tokens:
 
-Windows and Linux:
+Windows:
 
-[Start a Node on Windows and Linux](https://docs.crynux.ai/node-hosting/start-a-node-win-linux)
+[Start a Node on Windows](https://docs.crynux.ai/node-hosting/start-a-node-windows)
 
 Mac:
 
 [Start a Node on Mac](https://docs.crynux.ai/node-hosting/start-a-node-mac)
+
+Other systems:
+
+[Start a Node using Docker](https://docs.crynux.ai/node-hosting/start-a-node-docker)
 
 ### Application Developer
 
