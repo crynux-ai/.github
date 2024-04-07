@@ -66,7 +66,7 @@ Checkout our latest research papers about Crynux Network on the ResearchGate:
 
 Join the Crynux community on Discord:
 
-[https://discord.gg/qWyqwMY9](https://discord.gg/qWyqwMY9)
+[https://discord.gg/zmU9GRwU6f](https://discord.gg/zmU9GRwU6f)
 
 Crynux homepage:
 
