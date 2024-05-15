@@ -66,6 +66,8 @@ To know more about the Helium Network, start from the [Helium Network introducti
 
 Checkout our latest research papers about Crynux Network on the ResearchGate:
 
+[A Review on Decentralized Artificial Intelligence in the Era of Large Models](http://dx.doi.org/10.13140/RG.2.2.29365.08166)
+
 [Crynux Hydrogen Network (H-Net): Decentralized AI Serving Network on Blockchain](http://dx.doi.org/10.13140/RG.2.2.32697.54884)
 
 ## Links
