@@ -1,6 +1,6 @@
 # Crynux Network
 
-Crynux is the REAL decentralized AI infrastructure everyone can join and use right away.
+Crynux is the truly permissionless #DeAI on GPU@home.
 
 The key component of Crynux is a robust consensus protocol that enables the permissionless joining and using of the decentralized network by millions. The ability to identify and penalize all the malicious behaviors ensures the ecosystem's sustainability and facilitates healthy growth in a long term.
 
