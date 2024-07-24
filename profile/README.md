@@ -1,6 +1,6 @@
 # Crynux Network
 
-[![](https://dcbadge.limes.pink/api/server/https://discord.gg/zmU9GRwU6f](https://discord.gg/zmU9GRwU6f)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/zmU9GRwU6f)](https://discord.gg/zmU9GRwU6f)
 
 Crynux is the truly permissionless #DeAI on GPU@edge.
 
