@@ -3,6 +3,7 @@
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/zmU9GRwU6f)](https://discord.gg/zmU9GRwU6f)
 [![X](https://img.shields.io/badge/@crynuxai-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/crynuxai)
 [![GitHub Org's stars](https://img.shields.io/github/stars/crynux-ai?style=for-the-badge&logo=github)](https://github.com/crynux-ai)
+[![Static Badge](https://img.shields.io/badge/Gitbook-Documentation-blue?style=for-the-badge&logo=gitbook)](https://docs.crynux.ai)
 
 Crynux is the truly permissionless #DeAI on GPU@edge.
 
