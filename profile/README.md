@@ -1,7 +1,7 @@
 # Crynux Network
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/zmU9GRwU6f)](https://discord.gg/zmU9GRwU6f)
-[![X](https://img.shields.io/badge/@crynuxai-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/crynuxai)
+[![X](https://img.shields.io/badge/@crynuxai-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/crynuxio)
 [![GitHub Org's stars](https://img.shields.io/github/stars/crynux-ai?style=for-the-badge&logo=github)](https://github.com/crynux-ai)
 [![Static Badge](https://img.shields.io/badge/Gitbook-Documentation-blue?style=for-the-badge&logo=gitbook)](https://docs.crynux.ai)
 
@@ -37,14 +37,14 @@ By utilizing the Blockchain, Zero-knowledge Proofs and Privacy Preserving Comput
 
 ## The Image Generator
 
-[https://ig.crynux.ai](https://ig.crynux.ai)
+[https://ig.crynux.io](https://ig.crynux.io)
 
 The Image Generator is a showcase application that provides a web interface (just like [`stable-diffusion-webui`](https://github.com/AUTOMATIC1111/stable-diffusion-webui)) for the users to generate images in the browser. 
 The application can be used on any devices that do not have a capable GPU integrated. The Blockchain and token stuff are handled at the application backend using the [Crynux Bridge](https://github.com/crynux-ai/crynux-bridge). To the end users, this is just a traditional easy-to-use web application, nothing special.
 
 ## The GPT Chatbot
 
-[https://chat.crynux.ai](https://chat.crynux.ai)
+[https://chat.crynux.io](https://chat.crynux.io)
 
 The GPT Chatbot is a showcase application that provides a simple chat UI in the browser. The web application connects to the [Crynux Bridge](https://github.com/crynux-ai/crynux-bridge) at the backend to interact with the Crynux Network.
 
@@ -99,11 +99,11 @@ Join the Crynux community on Discord:
 
 Crynux homepage:
 
-[https://crynux.ai](https://crynux.ai)
+[https://crynux.io](https://crynux.io)
 
 The Crynux Blog contains the technical explanations and our latest progress:
 
-[https://blog.crynux.ai](https://blog.crynux.ai)
+[https://blog.crynux.io](https://blog.crynux.io)
 
 The technical documentation:
 
@@ -111,4 +111,4 @@ The technical documentation:
 
 And follow us on Twitter:
 
-[https://twitter.com/crynuxai](https://twitter.com/crynuxai)
+[https://twitter.com/crynuxio](https://x.com/crynuxio)
