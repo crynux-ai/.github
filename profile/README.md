@@ -3,7 +3,7 @@
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/zmU9GRwU6f)](https://discord.gg/zmU9GRwU6f)
 [![X](https://img.shields.io/badge/@crynuxio-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/crynuxio)
 [![GitHub Org's stars](https://img.shields.io/github/stars/crynux-ai?style=for-the-badge&logo=github)](https://github.com/crynux-ai)
-[![Static Badge](https://img.shields.io/badge/Gitbook-Documentation-blue?style=for-the-badge&logo=gitbook)](https://docs.crynux.ai)
+[![Static Badge](https://img.shields.io/badge/Gitbook-Documentation-blue?style=for-the-badge&logo=gitbook)](https://docs.crynux.io)
 
 Crynux is the truly permissionless #DeAI on GPU@edge.
 
@@ -13,7 +13,7 @@ The key component of Crynux is a robust consensus protocol that enables the perm
 
 The ability to identify and penalize all malicious behaviors ensures the ecosystem's sustainability while facilitating healthy growth in the long term.
 
-The innovative [vssML](https://docs.crynux.ai/system-design/verifiable-secret-sampling) technology significantly enhances network efficiency, rivaling centralized platforms while remaining decentralized and permissionless.
+The innovative [vssML](https://docs.crynux.io/system-design/verifiable-secret-sampling) technology significantly enhances network efficiency, rivaling centralized platforms while remaining decentralized and permissionless.
 
 ### Production-Ready AI Services Cloud, on Edge
 
@@ -56,15 +56,15 @@ To start a node on your local computer to earn tokens:
 
 Windows:
 
-[Start a Node on Windows](https://docs.crynux.ai/node-hosting/start-a-node-windows)
+[Start a Node on Windows](https://docs.crynux.io/node-hosting/start-a-node-windows)
 
 Mac:
 
-[Start a Node on Mac](https://docs.crynux.ai/node-hosting/start-a-node-mac)
+[Start a Node on Mac](https://docs.crynux.io/node-hosting/start-a-node-mac)
 
 Other systems:
 
-[Start a Node using Docker](https://docs.crynux.ai/node-hosting/start-a-node-docker)
+[Start a Node using Docker](https://docs.crynux.io/node-hosting/start-a-node-docker)
 
 ### Application Developer
 
@@ -81,7 +81,7 @@ The computation power comes from a decentralized network of the home computers t
 
 Although called a testnet, the featured consensus protocol is robust enough to allow everyone to join at this moment.
 
-To know more about the Helium Network, start from the [Helium Network introduction](https://docs.crynux.ai/releases/helium-network).
+To know more about the Helium Network, start from the [Helium Network introduction](https://docs.crynux.io/releases/helium-network).
 
 ## Research
 
@@ -107,8 +107,8 @@ The Crynux Blog contains the technical explanations and our latest progress:
 
 The technical documentation:
 
-[https://docs.crynux.ai](https://docs.crynux.ai)
+[https://docs.crynux.io](https://docs.crynux.io)
 
 And follow us on Twitter:
 
-[https://twitter.com/crynuxio](https://x.com/crynuxio)
+[https://x.com/crynuxio](https://x.com/crynuxio)
